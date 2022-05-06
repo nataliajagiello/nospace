@@ -1,19 +1,19 @@
 # nospace
 
-[![npm (scoped)](https://img.shields.io/npm/v/@natalia.jagiello/nospace.svg)](https://www.npmjs.com/package/@natalia.jagiello/nospace)
-[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@natalia.jagiello/nospace.svg)](https://www.npmjs.com/package/@natalia.jagiello/nospace)
+[![npm (scoped)](https://img.shields.io/npm/v/@nataliajagiello/nospace.svg)](https://www.npmjs.com/package/@nataliajagiello/nospace)
+[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@nataliajagiello/nospace.svg)](https://www.npmjs.com/package/@nataliajagiello/nospace)
 
 
 ## Install
 
 ```
-$ npm install @natalia.jagiello/nospace
+$ npm install @nataliajagiello/nospace
 ```
 
 ## Usage
 
 ```js
-const nospace = require("@natalia.jagiello/nospace");
+const nospace = require("@nataliajagiello/nospace");
 
 nospace("So much space!");
 //=> "Somuchspace!"
